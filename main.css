@@ -1,0 +1,20 @@
+a {
+    color:red;
+    font-family: avenir;
+}
+
+a:hover {
+    color: red;
+}
+
+#header {
+    // code here
+}
+
+.class {
+    //code here
+}
+
+body {
+    background-color: lightblue;
+}
